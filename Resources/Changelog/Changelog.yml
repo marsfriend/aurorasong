@@ -4932,3 +4932,10 @@ Entries:
   id: 9454
   time: '2026-05-05T11:29:32.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1026
+- author: ZigTag
+  changes:
+    - type: Fix
+      message: IPCs don't show the maintenance panel popup as much anymore
+  id: 9455
+  time: '2026-05-05T11:41:42.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1024
