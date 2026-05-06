@@ -4946,3 +4946,10 @@ Entries:
   id: 9456
   time: '2026-05-06T04:42:57.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1028
+- author: Phoenix51505
+  changes:
+    - type: Add
+      message: Added a toggle to pinpointers to extend their range brackets by 128-256x
+  id: 9457
+  time: '2026-05-06T04:52:05.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1029
