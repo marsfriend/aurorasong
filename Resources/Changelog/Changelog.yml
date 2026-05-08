@@ -4964,3 +4964,12 @@ Entries:
   id: 9458
   time: '2026-05-08T12:50:25.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1035
+- author: portfiend
+  changes:
+    - type: Tweak
+      message: >-
+        Bees / honeycomb now have a distinct sprite when they're ready to
+        harvest. Soil botanists, rejoice!
+  id: 9459
+  time: '2026-05-08T12:51:25.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1032
