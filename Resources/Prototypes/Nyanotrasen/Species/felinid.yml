@@ -35,12 +35,6 @@
     Chest:
       points: 4 # Frontier 1<4
       required: false
-    Genitals:
-      points: 1
-      required: false
-    Nipples:
-      points: 2
-      required: false
     Arms:
       points:  8 # Aurora 4<8
       required: false
