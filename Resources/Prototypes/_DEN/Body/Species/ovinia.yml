@@ -125,7 +125,7 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: _EE/Mobs/Species/Ovinia/parts.rsi
+    sprite: _DEN/Mobs/Species/Ovinia/parts.rsi
 
 - type: entity
   parent: [ OrganBaseTorso, OrganOviniaExternal ]
